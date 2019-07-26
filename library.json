@@ -1,0 +1,23 @@
+{
+    "name": "ESPRelayElectrodragon",
+    "license": "Apache-2.0",
+    "keywords": "esp, esp8266, electrodragon, relay, esprelay, espelectrodragon, Wifi, IoT, Relay ",
+    "description": "Contains pin definitions for the ESP8266 Wifi IoT Relay Board from Electrodragon",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/Brandon2255p/ESPRelayElectrodragon.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Brandon Piner",
+        "email": "brandon2255p@gmail.com",
+        "url": "https://github.com/Brandon2255p",
+        "maintainer": true
+      }
+    ],
+    "version": "1.0.0",
+    "frameworks": ["arduino","esp8266-nonos-sdk", "esp8266-rtos-sdk"],
+    "platforms": "espressif8266"
+  }
